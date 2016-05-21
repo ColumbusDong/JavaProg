@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinearTable()
+comment0.text=Default\ Constructor
+comment1.params=m\ b\ begin\ end\ skip
+comment1.target=LinearTable(double,\ double,\ int,\ int,\ int)
+comment1.text=Regular\ Constructor
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=Output
+numComments=3

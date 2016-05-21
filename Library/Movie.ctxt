@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Movie()
+comment0.text=Default
+comment1.params=t\ c\ y\ d
+comment1.target=Movie(java.lang.String,\ java.util.Calendar,\ int,\ java.lang.String)
+comment1.text=Regular
+comment2.params=m
+comment2.target=Movie(Movie)
+comment2.text=Copy\ Movie
+comment3.params=
+comment3.target=java.util.Calendar\ getReturnDate()
+comment3.text=Return\ Date\ from\ Media\ class
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=Output\ Specs
+comment5.params=
+comment5.target=int\ getYear()
+comment5.text=---------------Accessors---------------
+comment6.params=
+comment6.target=java.lang.String\ getDirector()
+comment7.params=y
+comment7.target=void\ setYear(int)
+comment7.text=---------------Mutators---------------
+comment8.params=d
+comment8.target=void\ setDirector(java.lang.String)
+numComments=9

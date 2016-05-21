@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=Charge\ Prize1\ Prize2
+comment0.target=GameBooth(double,\ java.lang.String,\ java.lang.String)
+comment0.text=Regular\ Constructor
+comment1.params=
+comment1.target=java.lang.String\ start()
+comment2.params=
+comment2.target=double\ getCost()
+comment2.text=Get\ Cost
+comment3.params=
+comment3.target=java.lang.String\ prizesAwarded()
+comment3.text=Get\ Prizes\ Awarded
+numComments=4

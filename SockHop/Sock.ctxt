@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=Characters
+comment0.target=Sock(java.lang.String)
+comment0.text=Regular\ Constructor
+comment1.params=
+comment1.target=void\ noTicket()
+comment1.text=No\ ticket
+comment2.params=
+comment2.target=void\ yesTicket()
+comment2.text=Yes\ Ticket
+comment3.params=
+comment3.target=void\ Output()
+comment3.text=to\ String
+comment4.params=
+comment4.target=void\ toTerminate()
+comment4.text=Terminate
+numComments=5

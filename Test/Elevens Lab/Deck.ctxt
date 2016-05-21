@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=ranks\ suits\ values
+comment0.target=Deck(java.lang.String[],\ java.lang.String[],\ int[])
+comment0.text=\r\n\ \ \ \ \ \ \ \ Descriptions\:\ \ \ Makes\ every\ type\ of\ card\ with\ the\ given\ ranks,\ suits,\ and\ values\r\n\ \ \ \ \ \ \ \ @param\ \ ranks\ \ \ Array\ containing\ all\ the\ card\ ranks\r\n\ \ \ \ \ \ \ \ @param\ \ suits\ \ \ Array\ containing\ all\ the\ card\ suits\r\n\ \ \ \ \ \ \ \ @param\ \ values\ \ Array\ containing\ all\ the\ card\ values\r\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\r\n\ \ \ \ \ \ \ \ Description\:\ Check\ if\ the\ deck\ is\ empty\r\n\ \ \ \ \ \ \ \ @return\ T/F\ \ \ \ \ Returns\ true\ if\ deck\ is\ empty\r\n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\r\n\ \ \ \ \ \ \ \ @return\ int\ \ \ \ \ Returns\ the\ number\ of\ undealt\ cards\r\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\r\n\ \ \ \ \ \ \ \ Description\:\ Shuffle\ the\ cards\ and\ reset\ size\ to\ the\ entire\ deck.\r\n
+comment4.params=
+comment4.target=Card\ deal()
+comment4.text=\r\n\ \ \ \ \ \ \ \ @return\ card\ \ \ \ Returns\ the\ card\ just\ dealt\ or\ null\ if\ all\ cards\ have\ been\ dealt\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=Output
+numComments=6

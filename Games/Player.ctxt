@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=Money
+comment0.target=Player(double)
+comment0.text=Regular\ Constructor
+comment1.params=Game
+comment1.target=java.lang.String\ Play(GameBooth)
+comment1.text=Players\ Pay
+comment2.params=
+comment2.target=java.lang.String\ showPrizes()
+comment2.text=Returs\ Prizes
+numComments=3

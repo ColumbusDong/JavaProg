@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=numberInteger
+comment1.target=java.lang.String\ Change(int)
+comment1.text=Changes
+comment2.params=number
+comment2.target=java.lang.String\ SingleDigit(int)
+comment3.params=digit1\ digit2
+comment3.target=java.lang.String\ TwoDigit(int,\ int)
+comment4.params=digit1\ digit2\ digit3
+comment4.target=java.lang.String\ ThreeDigit(int,\ int,\ int)
+comment5.params=digits\ length
+comment5.target=java.lang.String\ GreaterDigit(int[],\ int)
+comment6.params=number
+comment6.target=java.lang.String\ Basic(int)
+comment6.text=Ones\ Digit\ Numbers
+comment7.params=number
+comment7.target=java.lang.String\ Teens(int)
+comment7.text=Two\ Digit\ Teens\ Numbers
+comment8.params=number
+comment8.target=java.lang.String\ Tens(int)
+comment8.text=Two\ Digit\ Tens\ Number
+comment9.params=number
+comment9.target=java.lang.String\ Magnitude(int)
+comment9.text=Magnitudes/Units
+numComments=10

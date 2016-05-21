@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ RightTriangle()
+comment0.text=Choice\ 1
+comment1.params=
+comment1.target=void\ LeftTriangle()
+comment1.text=Choice\ 2
+comment2.params=
+comment2.target=void\ CenterTriangle()
+comment2.text=Choice\ 3
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=Main\ Screen
+numComments=4

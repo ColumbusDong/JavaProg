@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=Main
+comment1.params=Sales
+comment1.target=void\ RegularDay(int)
+comment1.text=Random\ Regular\ Day
+comment2.params=Sales
+comment2.target=void\ RandomMonday(int)
+comment2.text=Random\ Monday
+comment3.params=Sales
+comment3.target=void\ RandomTuesday(int)
+comment3.text=Random\ Tuesday
+comment4.params=Sales
+comment4.target=void\ RandomSaturday(int)
+comment4.text=Random\ Saturday
+numComments=5

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Customer()
+comment0.text=Default\ Constructor
+comment1.params=FName\ LName\ Str\ C\ S\ Z
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=Regular\ Constructor
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=Output
+comment3.params=Str
+comment3.target=void\ changeStreet(java.lang.String)
+comment3.text=-----------------------Mutator\ (Setters\ a.k.a\ Set\ Info)-----------------------
+comment4.params=C
+comment4.target=void\ changeCity(java.lang.String)
+comment5.params=S
+comment5.target=void\ changeState(java.lang.String)
+comment6.params=Z
+comment6.target=void\ changeZip(java.lang.String)
+numComments=7

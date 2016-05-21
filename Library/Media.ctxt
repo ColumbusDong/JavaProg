@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Media()
+comment0.text=Default
+comment1.params=t\ c
+comment1.target=Media(java.lang.String,\ java.util.Calendar)
+comment1.text=Regular
+comment2.params=
+comment2.target=java.util.Calendar\ getToday()
+comment2.text=---------------Accessors---------------
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=t
+comment4.target=void\ setTitle(java.lang.String)
+comment4.text=---------------Mutators---------------
+comment5.params=c
+comment5.target=void\ setToday(java.util.Calendar)
+comment6.params=
+comment6.target=java.util.Calendar\ getReturnDate()
+comment6.text=Return\ Date\ on\ the\ Media
+numComments=7

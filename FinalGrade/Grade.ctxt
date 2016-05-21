@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=Quiz1\ Quiz2\ Midterm\ FinalExam
+comment0.target=Grade(int,\ int,\ int,\ int)
+comment0.text=Regular\ Constructor
+comment1.params=
+comment1.target=java.lang.String\ toString()
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=cardRank\ cardSuit\ cardPV
+comment0.target=Card(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\t\t@param\ cardRank\t\tString\ that\ contains\ card\ rank\r\n\t\t@param\ cardSuit\t\tString\ that\ contains\ card\ suit\r\n\t\t@param\ cardPV\t\tInteger\ that\ contains\ card\ point\ value\r\n
+comment1.params=otherCard
+comment1.target=boolean\ matches(Card)
+comment1.text=\r\n\t\tDescription\:\ Compares\ current\ card\ with\ another\ card\r\n\t\t@param\ \totherCard\tCard\ that\ contains\ the\ other\ card\r\n\t\t@return\t\t\t\treturns\ whether\ the\ cards\ are\ the\ exact\ same\ or\ different\ with\ true/false\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\t\tDescription\:\ \tPrints\ a\ string\ in\ the\ format\:\ "[Rank]\ of\ [Suit]\ (Point\ Value\ \=\ [pointValue])"\r\n\t\t@returns\t\treturns\ a\ string\ containing\ the\ rank,\ suit,\ and\ the\ point\ value\ of\ the\ card\r\n
+comment3.params=
+comment3.target=java.lang.String\ suit()
+comment3.text=Accessors\ -\ Start
+comment4.params=
+comment4.target=java.lang.String\ rank()
+comment5.params=
+comment5.target=int\ pointValue()
+numComments=6

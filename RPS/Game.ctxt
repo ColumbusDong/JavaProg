@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=Default\ Constructor
+comment1.params=Throw
+comment1.target=Game(int)
+comment1.text=Regular\ Constructor\ Computer
+comment2.params=playThrow
+comment2.target=void\ playerThrow(int)
+comment2.text=Player\ Throw
+comment3.params=
+comment3.target=void\ makeCompThrow()
+comment3.text=Computer\ Throw
+comment4.params=
+comment4.target=void\ checkWinner()
+comment4.text=Check\ who\ won
+comment5.params=
+comment5.target=java.lang.String\ getCompThrow()
+comment5.text=Assessors
+comment6.params=
+comment6.target=java.lang.String\ getP2Name()
+comment7.params=
+comment7.target=java.lang.String\ getPlayerThrow()
+comment8.params=
+comment8.target=int\ getWinner()
+numComments=9

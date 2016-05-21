@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=Main
+comment1.params=A\ B\ C
+comment1.target=boolean\ CheckTriangle(int,\ int,\ int)
+comment1.text=Check\ if\ Side\ Lengths\ Make\ a\ Triangle
+comment2.params=A\ B\ C
+comment2.target=void\ Herons(int,\ int,\ int)
+comment2.text=Calculate\ Heron's\ Formula
+numComments=3

@@ -1,0 +1,6 @@
+1. Row = 0, Column = 0
+2. 639
+3. 479
+4. Top to bottom
+5. Left to Right
+6. Yes, I see "squares of color"

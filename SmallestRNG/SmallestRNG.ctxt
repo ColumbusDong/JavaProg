@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=Main
+comment1.params=Num1\ Num2\ Num3
+comment1.target=java.lang.String\ NumOrder(int,\ int,\ int)
+comment1.text=Find\ the\ Order
+comment2.params=Largest\ Middle\ Smallest
+comment2.target=int\ Calculations(int,\ int,\ int)
+comment2.text=For\ Math
+numComments=3

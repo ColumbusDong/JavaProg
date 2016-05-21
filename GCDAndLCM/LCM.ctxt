@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LCM()
+comment1.params=Num1\ Num2
+comment1.target=int\ Denominator(int,\ int)
+comment1.text=Method
+comment2.params=Num1\ Num2
+comment2.target=LCM(int,\ int)
+comment2.text=Regular\ Constructor
+comment3.params=Num1\ Num2
+comment3.target=LCM(LCM,\ int)
+comment3.text=Regular\ Constructor
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=String
+comment5.params=
+comment5.target=int\ getLCM()
+comment5.text=Getter
+numComments=6

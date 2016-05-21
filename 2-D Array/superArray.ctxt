@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=superArray()
+comment1.params=normalArray
+comment1.target=superArray(int[][])
+comment2.params=
+comment2.target=void\ Transpose()
+comment2.text=Transpose
+comment3.params=
+comment3.target=void\ Diagonals()
+comment3.text=Diagonal\ Sum
+comment4.params=
+comment4.target=void\ Totals()
+comment4.text=Row\ and\ Column\ Sum
+numComments=5

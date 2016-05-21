@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=Main
+comment1.params=X
+comment1.target=int\ Lower(int)
+comment1.text=Lower\ Prime\ Number
+comment2.params=X
+comment2.target=int\ Upper(int)
+comment2.text=Upper\ Prime\ Number
+numComments=3

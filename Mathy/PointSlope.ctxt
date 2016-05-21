@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=X1\ Y1\ X2\ Y2
+comment0.target=PointSlope(int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=java.lang.String\ findPointForm()
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=n\ base\ numbers
+comment1.target=void\ baseConverter(int,\ int,\ java.lang.String)
+comment2.params=n\ base
+comment2.target=void\ letterBases(int,\ int)
+comment3.params=n
+comment3.target=void\ reorganizedBase(java.lang.String)
+numComments=4

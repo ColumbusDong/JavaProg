@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Book()
+comment0.text=Default
+comment1.params=t\ a\ c
+comment1.target=Book(java.lang.String,\ java.lang.String,\ java.util.Calendar)
+comment1.text=Regular
+comment2.params=b
+comment2.target=Book(Book)
+comment2.text=Copy\ Book
+comment3.params=
+comment3.target=java.util.Calendar\ getReturnDate()
+comment3.text=Return\ Date\ from\ Media\ class
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=Output\ Specs
+comment5.params=
+comment5.target=java.lang.String\ getAuthor()
+comment5.text=-----------------------Accessors\ (Getters\ a.k.a.\ Get\ Info)-----------------------
+comment6.params=a
+comment6.target=void\ setAuthor(java.lang.String)
+comment6.text=-----------------------Mutator\ (Setters\ a.k.a\ Set\ Info)-----------------------
+numComments=7

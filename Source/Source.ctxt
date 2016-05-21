@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Source()
+comment0.text=Default\ Constructor
+comment1.params=actNumber\ hour\ priority
+comment1.target=Source(java.lang.String,\ double,\ int)
+comment1.text=Regular\ Constructor
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
